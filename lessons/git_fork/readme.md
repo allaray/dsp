@@ -56,7 +56,13 @@ Here's your first chance to practice this:
 ### Q1. Emoji
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
+<<<<<<< HEAD
 
 :smiley:,:apple:
 
+=======
+:smiley:
+:gift_heart:
+:heart_eyes:
+>>>>>>> de96a5135b911d9ce8b31fb794f100e3744c37a9
 
